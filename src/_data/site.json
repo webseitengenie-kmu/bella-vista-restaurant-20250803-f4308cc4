@@ -1,0 +1,67 @@
+{
+  "name": "Bella Vista Restaurant",
+  "description": "Erleben Sie authentische italienische Küche nach traditionellen Familienrezepten mit frischen regionalen Zutaten in gemütlicher Atmosphäre - seit über 20 Jahren von Familie Rossi geführt",
+  "url": "https://example.com",
+  "author": "Bella Vista Restaurant",
+  "footer": {
+    "year": "2025",
+    "socialMedia": [],
+    "legalPages": [
+      {
+        "title": "Impressum",
+        "url": "/impressum"
+      },
+      {
+        "title": "Datenschutz",
+        "url": "/datenschutz"
+      }
+    ]
+  },
+  "businessInfo": {
+    "businessName": "Bella Vista Restaurant",
+    "businessType": "Restaurant",
+    "industry": "Gastronomie",
+    "description": "Authentische italienische Küche mit frischen, regionalen Zutaten in gemütlicher Atmosphäre. Familie Rossi kocht seit 20 Jahren traditionelle Rezepte.",
+    "language": "de",
+    "targetAudience": "Familien, Paare und Geschäftsleute, die authentische italienische Küche schätzen",
+    "competitiveAdvantages": [
+      "Familienrezepte seit 3 Generationen",
+      "Frische regionale Zutaten",
+      "Gemütliche Atmosphäre",
+      "Authentische italienische Küche"
+    ],
+    "uniqueSellingPoints": "Traditionelle italienische Familienrezepte seit 3 Generationen mit frischen regionalen Zutaten in authentischer, gemütlicher Atmosphäre",
+    "services": "Dinner, Mittagstisch, Catering, Private Events, Weinverkostungen",
+    "coreValues": [
+      "Authentizität",
+      "Familientradition",
+      "Qualität",
+      "Gemeinschaft"
+    ],
+    "established": "2004",
+    "locations": [
+      "München"
+    ],
+    "teamSize": "2",
+    "team": [
+      {
+        "name": "Giuseppe Rossi",
+        "position": "Küchenchef & Inhaber",
+        "description": "Authentischer italienischer Küchenchef mit 25 Jahren Erfahrung. Verwendet nur traditionelle Familienrezepte und frischeste Zutaten.",
+        "expertise": "Italienische Küche, Familienrezepte"
+      },
+      {
+        "name": "Maria Rossi",
+        "position": "Service Manager",
+        "description": "Sorgt für den perfekten Service und die gemütliche Atmosphäre. Spricht fließend Deutsch, Italienisch und Englisch.",
+        "expertise": "Service Management, Mehrsprachige Kommunikation"
+      }
+    ],
+    "referenceProjects": []
+  },
+  "userImages": {
+    "all": [],
+    "byCategory": {}
+  },
+  "hasLegalPages": true
+}

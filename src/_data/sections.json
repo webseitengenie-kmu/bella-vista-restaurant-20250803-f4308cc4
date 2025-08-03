@@ -1,0 +1,138 @@
+[
+  {
+    "sectionId": "hero",
+    "type": "hero",
+    "headline": "Bella Vista – Authentische italienische Küche",
+    "subheadline": "Traditionelle Familienrezepte seit drei Generationen im Herzen Münchens erleben",
+    "content": {
+      "items": [
+        {
+          "title": "Authentische italienische Küche im Herzen Münchens",
+          "description": "Seit 2004 verwöhnt das Bella Vista Restaurant seine Gäste mit traditionellen italienischen Familienrezepten, die bereits seit drei Generationen überliefert werden. Unser kleines, aber leidenschaftliches Team von zwei Köchen kreiert täglich frische Köstlichkeiten mit regionalen Zutaten in einer authentischen, gemütlichen Atmosphäre. Im Herzen Münchens gelegen, bietet unser Restaurant Familien, Paaren und Geschäftsleuten ein unvergessliches kulinarisches Erlebnis. Jedes Gericht wird mit italienischer Leidenschaft und warmer Herzlichkeit zubereitet, die unsere Gäste sofort spüren. Die traditionellen Rezepte unserer Familie garantieren authentischen Geschmack, während die sorgfältig ausgewählten regionalen Zutaten für höchste Qualität sorgen. Erleben Sie echte italienische Gastfreundschaft in unserem gemütlichen Restaurant.",
+          "icon": "🍝"
+        }
+      ]
+    },
+    "cta": {
+      "text": "Tisch reservieren",
+      "action": "book-now"
+    }
+  },
+  {
+    "sectionId": "services",
+    "type": "services",
+    "headline": "Unsere authentischen italienischen Küchenleistungen",
+    "subheadline": "Von traditionellen Familienrezepten bis zu exklusiven Weinverkostungen - entdecken Sie die Vielfalt unserer gastronomischen Services",
+    "content": {
+      "items": [
+        {
+          "title": "Dinner",
+          "description": "Genießen Sie abends unsere authentische italienische Küche mit traditionellen Familienrezepten, die seit drei Generationen in unserem Restaurant weitergegeben werden. Keine langen Wartezeiten mehr bei der Suche nach einem guten Italiener - bei uns finden Sie garantiert frische regionale Zutaten, die täglich sorgfältig ausgewählt und in unserer gemütlichen Atmosphäre mit italienischer Leidenschaft zubereitet werden. Perfekt für Familien, Paare und Geschäftsleute, die Qualität schätzen."
+        },
+        {
+          "title": "Mittagstisch",
+          "description": "Unser Mittagstisch bietet Ihnen schnelle, authentische italienische Gerichte ohne lange Wartezeiten - einfach reservieren und genießen. Mit frischen regionalen Zutaten kreieren wir täglich wechselnde Mittagsmenüs nach unseren bewährten Familienrezepten aus drei Generationen. Ideal für Geschäftsleute und alle, die mittags nicht auf Qualität verzichten möchten. In unserer gemütlichen Atmosphäre können Sie entspannt speisen und gestärkt in den Nachmittag starten."
+        },
+        {
+          "title": "Catering",
+          "description": "Bringen Sie die Qualität unserer authentischen italienischen Küche direkt zu Ihrer Veranstaltung. Mit unseren traditionellen Familienrezepten seit drei Generationen und frischen regionalen Zutaten sorgen wir dafür, dass Sie sich keine Sorgen über die Qualität machen müssen. Ob Firmenfeier, Hochzeit oder private Feier - wir liefern die gleiche gemütliche italienische Atmosphäre und Leidenschaft, die unser Restaurant in München seit 2004 auszeichnet."
+        },
+        {
+          "title": "Private Events",
+          "description": "Verwandeln Sie Ihr privates Event in ein unvergessliches italienisches Erlebnis. Unsere authentische italienische Küche mit traditionellen Familienrezepten aus drei Generationen schafft die perfekte Atmosphäre für Ihre besonderen Anlässe. Mit frischen regionalen Zutaten und unserer warmen, herzlichen Art sorgen wir dafür, dass Ihre Gäste die gemütliche italienische Atmosphäre spüren. Ideal für Familienfeiern, Geburtstage oder geschäftliche Anlässe, bei denen Qualität und Authentizität zählen."
+        },
+        {
+          "title": "Weinverkostungen",
+          "description": "Entdecken Sie die Welt italienischer Weine in unserer gemütlichen Atmosphäre. Unsere Weinverkostungen verbinden authentische italienische Weinkultur mit den traditionellen Familienrezepten, die seit drei Generationen unser Restaurant prägen. Begleitet von frischen regionalen Zutaten als kleine Häppchen, erleben Sie eine Reise durch Italiens Weinregionen. Perfekt für Weinliebhaber, Paare und alle, die mehr über italienische Weinkultur erfahren möchten - ohne Unsicherheit über die Qualität."
+        }
+      ]
+    },
+    "cta": {
+      "text": "Jetzt reservieren",
+      "action": "book-now"
+    }
+  },
+  {
+    "sectionId": "about",
+    "type": "about",
+    "headline": "Authentische italienische Familientradition seit 2004",
+    "subheadline": "Drei Generationen geheime Familienrezepte vereint mit frischen regionalen Zutaten im Herzen Münchens",
+    "content": {
+      "items": [
+        {
+          "title": "Unsere Geschichte",
+          "description": "Seit der Gründung im Jahr 2004 steht das Bella Vista Restaurant für authentische italienische Küche im Herzen Münchens. Mit 21 Jahren Erfahrung in der Gastronomie haben wir uns als Familienrestaurant etabliert, das traditionelle italienische Familienrezepte aus drei Generationen bewahrt und weitergibt. Unser 2-köpfiges Team arbeitet täglich mit Leidenschaft daran, jedem Gast ein unvergessliches kulinarisches Erlebnis zu bieten. Die Rezepte, die seit drei Generationen in unserer Familie überliefert werden, bilden das Herzstück unserer Küche und machen jeden Besuch zu einer authentischen italienischen Geschmacksreise. In unserem Restaurant in München Zentrum verwenden wir ausschließlich frische regionale Zutaten, die wir sorgfältig auswählen, um die Qualität und den ursprünglichen Geschmack unserer traditionellen Gerichte zu gewährleisten. Die authentische, gemütliche Atmosphäre unseres Restaurants schafft den perfekten Rahmen für Familien, Paare und Geschäftsleute, die echte italienische Küche schätzen. Unsere Werte Authentizität, Familientradition, Qualität und Gemeinschaft spiegeln sich in jedem Detail wider - von der liebevollen Zubereitung unserer Speisen bis hin zur herzlichen Betreuung unserer Gäste. Diese Kombination aus jahrzehntelanger Erfahrung, überlieferten Familienrezepten und der Verwendung bester regionaler Zutaten macht das Bella Vista zu einem besonderen Ort, an dem italienische Gastfreundschaft und kulinarische Exzellenz aufeinandertreffen."
+        }
+      ]
+    },
+    "cta": {
+      "text": "Jetzt reservieren",
+      "action": "book-now"
+    }
+  },
+  {
+    "sectionId": "team",
+    "type": "team",
+    "headline": "Das Herz unserer Familientradition",
+    "subheadline": "Lernen Sie die Menschen kennen, die seit drei Generationen authentische italienische Küche mit Leidenschaft leben",
+    "content": {
+      "items": [
+        {
+          "title": "Giuseppe Rossi",
+          "description": "Küchenchef & Inhaber - Authentischer italienischer Küchenchef mit 25 Jahren Erfahrung, der ausschließlich traditionelle Familienrezepte verwendet und dabei auf frischeste Zutaten setzt. Giuseppe bringt die Seele Italiens in jedes Gericht und verkörpert die dreigenerationelle Tradition unseres Restaurants. Seine Leidenschaft für die authentische italienische Küche spiegelt sich in jedem handgemachten Pasta-Gericht und jeder sorgfältig zubereiteten Sauce wider, die er täglich frisch für unsere Gäste kreiert.",
+          "icon": "chef"
+        },
+        {
+          "title": "Maria Rossi",
+          "description": "Service Manager - Sorgt mit ihrer herzlichen Art für den perfekten Service und die gemütliche Atmosphäre, die unser Restaurant auszeichnet. Maria spricht fließend Deutsch, Italienisch und Englisch und schafft damit eine Brücke zwischen unseren internationalen Gästen und der authentischen italienischen Gastfreundschaft. Mit ihrer jahrelangen Erfahrung im Servicebereich und ihrem Gespür für die Bedürfnisse unserer Gäste macht sie jeden Besuch zu einem unvergesslichen Erlebnis voller italienischer Herzlichkeit.",
+          "icon": "service"
+        }
+      ]
+    },
+    "cta": {
+      "text": "Team kennenlernen",
+      "action": "contact"
+    }
+  },
+  {
+    "sectionId": "trust",
+    "type": "trust",
+    "headline": "Zwei Jahrzehnte italienische Leidenschaft",
+    "subheadline": "Seit 2004 verwöhnen wir München mit authentischer italienischer Küche und familiärer Herzlichkeit aus drei Generationen Erfahrung.",
+    "content": {
+      "items": [
+        {
+          "title": "21 Jahre Bella Vista Tradition",
+          "description": "Seit der Gründung 2004 stehen wir für authentische italienische Küche in München. Unsere 20-jährige Erfahrung in der Restaurantführung zeigt sich in jedem Detail - von der sorgfältigen Auswahl regionaler Zutaten bis hin zur liebevollen Zubereitung traditioneller Familienrezepte. Diese zwei Jahrzehnte haben uns gelehrt, was unsere Gäste wirklich schätzen: echte italienische Gastfreundschaft in gemütlicher Atmosphäre. Vertrauen Sie auf unsere bewährte Expertise und lassen Sie sich von der Leidenschaft überzeugen, die seit drei Generationen in unserer Familie lebt.",
+          "icon": "🏆"
+        }
+      ]
+    },
+    "cta": {
+      "text": "Jetzt reservieren",
+      "action": "book-now"
+    }
+  },
+  {
+    "sectionId": "contact",
+    "type": "contact",
+    "headline": "Reservieren Sie Ihren perfekten italienischen Abend",
+    "subheadline": "Kontaktieren Sie uns für Tischreservierungen, Catering-Anfragen oder Event-Planungen - wir freuen uns auf Sie!",
+    "content": {
+      "paragraphs": [
+        "Buchen Sie noch heute Ihren Tisch im Bella Vista Restaurant und erleben Sie authentische italienische Küche mit traditionellen Familienrezepten aus drei Generationen. Unser herzliches Team erwartet Sie am Pizzaplatz 5 in 80331 München mit frischen regionalen Zutaten und der warmen Atmosphäre echter italienischer Gastfreundschaft. Kontaktieren Sie uns telefonisch unter +498987654321 oder per E-Mail an info@bellavista-restaurant.de für Ihre Reservierung."
+      ],
+      "items": [
+        {
+          "title": "Vollständige Kontaktinformationen & Reservierungsformular",
+          "description": "Erreichen Sie das Bella Vista Restaurant am Pizzaplatz 5, 80331 München telefonisch unter +498987654321 oder per E-Mail an info@bellavista-restaurant.de. Folgen Sie uns auf Facebook, WhatsApp und Instagram für aktuelle Updates. Nutzen Sie unser Reservierungsformular mit den Feldern Name, E-Mail, Telefonnummer, Nachricht, Wunschdatum, Uhrzeit und Personenanzahl für Tischreservierungen, Catering-Anfragen oder Event-Planungen. Alle Kontaktmöglichkeiten sind barrierefrei zugänglich und prominent platziert mit entsprechenden Social Media Icons.",
+          "icon": "contact"
+        }
+      ]
+    },
+    "cta": {
+      "text": "Jetzt reservieren",
+      "action": "book-now"
+    }
+  }
+]
